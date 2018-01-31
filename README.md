@@ -140,3 +140,9 @@ En este apartado se detallará la interactividad que por medio de la planeación
 ### Pseudocódigo (Diagrama de flujo)
 
  ![Sketch de HOME](assets/images/ps.jpg)
+ 
+ 
+ #### Planeación 
+ 
+ Adjuntamos un link de Trello 
+ https://trello.com/b/de45qlyN
