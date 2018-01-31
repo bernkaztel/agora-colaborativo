@@ -123,12 +123,12 @@ Dentro del diseño de la navegación se buscó crear una navegación sencilla y 
 
 Principalmente se buscó que la información presentada fuera precisa y concisa, otorgándole a los usuarios solo la información que ellos consideradon primordial durante las encuestas. Es así como decidimos que, de los libros, la cuestión más importante fue el título, autor, portada y un breve resumen.  
 
-###Planeación de la interactividad
+### Planeación de la interactividad
 
 En este apartado se detallará la interactividad que por medio de la planeación obtuvimos como necesaria para tener una funcionalidad básica. 
 
 
-#### Necesidades interactivas. 
+#### Necesidades interactivas
 
 1. Log In (Firebase). 
 2. Postear imágenes. 
@@ -137,3 +137,6 @@ En este apartado se detallará la interactividad que por medio de la planeación
 5. Seguir personas/marcas. 
 6. Buscar libros por ISBN. 
 
+### Pseudocódigo (Diagrama de flujo)
+
+ ![Sketch de HOME](assets/images/ps.jpg)
